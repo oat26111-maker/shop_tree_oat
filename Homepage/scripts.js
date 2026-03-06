@@ -1,81 +1,81 @@
 const products = [
     {
         id: 1,
-        name: "KFC",
-        priceDisplay: "100฿",
+        name: "พลูสนิม",
+        priceDisplay: "50฿",
         type: "view",
         type1: "add",
         isSale: true,
-        img: ""
+        img: "tree_img_shop/ต้นพลูสนิม.webp"
     },
     {
         id: 2,
-        name: "McDonald's",
-        priceDisplay: "150฿",
+        name: "ลิ้นมังกร",
+        priceDisplay: "50฿",
         type: "view",
         type1: "add",
         isSale: false,
-        img: "https://cms.dmpcdn.com/trueyoumerchant/2025/01/08/d3fccb90-cd8c-11ef-9053-432c04a5d891_webp_original.webp"
+        img: "tree_img_shop/ต้นลิ้นมังกร.jpg"
     },
 
     {
         id: 3,
-        name: "McDonald's",
-        priceDisplay: "150฿",
+        name: "ตีนตุ๊กแกฝรั่ง",
+        priceDisplay: "50฿",
         type: "view",
         type1: "add",
         isSale: false,
-        img: "https://cms.dmpcdn.com/trueyoumerchant/2025/01/08/d3fccb90-cd8c-11ef-9053-432c04a5d891_webp_original.webp"
+        img: "tree_img_shop/ตีนตุ๊กแกฝรั่ง.webp"
     },
 
     {
         id: 4,
-        name: "McDonald's",
-        priceDisplay: "150฿",
+        name: "ไทรใบสักแคระ",
+        priceDisplay: "50฿",
         type: "view",
         type1: "add",
         isSale: false,
-        img: "https://cms.dmpcdn.com/trueyoumerchant/2025/01/08/d3fccb90-cd8c-11ef-9053-432c04a5d891_webp_original.webp"
+        img: "tree_img_shop/ไทรใบสักแคระ.webp"
     },
 
     {
         id: 5,
-        name: "McDonald's",
-        priceDisplay: "150฿",
+        name: "พลูด่าง",
+        priceDisplay: "50฿",
         type: "view",
         type1: "add",
         isSale: false,
-        img: "https://cms.dmpcdn.com/trueyoumerchant/2025/01/08/d3fccb90-cd8c-11ef-9053-432c04a5d891_webp_original.webp"
+        img: "tree_img_shop/พลูด่าง.webp"
     },
 
     {
         id: 6,
-        name: "McDonald's",
-        priceDisplay: "150฿",
+        name: "ยางอินเดียดำ",
+        priceDisplay: "50฿",
         type: "view",
         type1: "add",
         isSale: false,
-        img: "https://cms.dmpcdn.com/trueyoumerchant/2025/01/08/d3fccb90-cd8c-11ef-9053-432c04a5d891_webp_original.webp"
+        img: "tree_img_shop/ยางอินเดียดำ.webp"
     },
 
     {
         id: 7,
-        name: "McDonald's",
-        priceDisplay: "150฿",
+        name: "หนวดปลาหมึกแคระ",
+        priceDisplay: "50฿",
         type: "view",
         type1: "add",
         isSale: false,
-        img: "https://cms.dmpcdn.com/trueyoumerchant/2025/01/08/d3fccb90-cd8c-11ef-9053-432c04a5d891_webp_original.webp"
+        img: "tree_img_shop/หนวดปลาหมึกแคระ.webp"
     },
 
     {
         id: 8,
-        name: "McDonald's",
-        priceDisplay: "150฿",
+        name: "หมากเหลือง",
+        priceDisplay: "50฿",
         type: "view",
         type1: "add",
         isSale: false,
-        img: "https://cms.dmpcdn.com/trueyoumerchant/2025/01/08/d3fccb90-cd8c-11ef-9053-432c04a5d891_webp_original.webp"
+        img: "tree_img_shop/หมากเหลือง1.webp"
     },
 
 ];
