@@ -10826,9 +10826,12 @@ textarea.form-control-lg {
 }
 
 .main-header{
-  background-color: black;
-  color: white;
+  background-image: url("img/background_สุวรรณ.png") ;
+  color: black;
   padding: 5rem;
   padding-top: 50px;
   text-align: center;
+  font-size: 50px;
+
 }
+
