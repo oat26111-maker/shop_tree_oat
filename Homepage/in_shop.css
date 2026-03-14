@@ -1,0 +1,113 @@
+body{
+    font-family: Arial;
+    background:#f5f5f5;
+    margin:0;
+}
+
+/* Header */
+.header{
+    background:#155a00;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+/* กล่องสินค้า */
+.container-product{
+    width:1000px;
+    margin:auto;
+    margin-top:40px;
+    background:white;
+    padding:20px;
+    display:flex;
+    gap:30px;
+    border-radius:8px;
+}
+
+/* รูปสินค้า */
+.product-image{
+    width:400px;
+}
+
+.main-img{
+    width:100%;
+    height:300px;
+    background:linear-gradient(135deg,#7ed957,#2e8b57);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:white;
+    font-size:22px;
+    border-radius:6px;
+}
+
+.thumbnails{
+    display:flex;
+    gap:10px;
+    margin-top:10px;
+}
+
+.thumb{
+    flex:1;
+    height:70px;
+    background:#ddd;
+    border-radius:4px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:12px;
+}
+
+/* ข้อมูลสินค้า */
+.product-info{
+    flex:1;
+}
+
+.title{
+    font-size:20px;
+    margin-bottom:10px;
+}
+
+.rating{
+    color:rgb(0, 160, 21);
+    margin-bottom:10px;
+}
+
+.price{
+    font-size:28px;
+    color:#3dee2d;
+    margin-bottom:15px;
+}
+
+.options button{
+    margin:5px;
+    padding:8px 12px;
+    border:1px solid #ccc;
+    background:white;
+    cursor:pointer;
+}
+
+.options button:hover{
+    border:1px solid #2dee47;
+    color:#33ee2d;
+}
+
+.buttons{
+    margin-top:20px;
+}
+
+.cart{
+    border:1px solid hsl(123, 100%, 23%);
+    background:white;
+    color:#33ee2d;
+    padding:12px 20px;
+    cursor:pointer;
+}
+
+.buy{
+    background:#0d7000;
+    color:white;
+    border:none;
+    padding:12px 20px;
+    cursor:pointer;
+}
