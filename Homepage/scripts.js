@@ -40,22 +40,22 @@ const products = [
 
     {
         id: 5,
-        name: "พลูด่าง",
-        priceDisplay: "50฿",
-        type: "view",
-        type1: "add",
-        isSale: false,
-        img: "tree_img_shop/พลูด่าง.webp"
-    },
-
-    {
-        id: 6,
         name: "ยางอินเดียดำ",
         priceDisplay: "50฿",
         type: "view",
         type1: "add",
         isSale: false,
         img: "tree_img_shop/ยางอินเดียดำ.webp"
+    },
+
+    {
+        id: 6,
+        name: "พลูด่าง",
+        priceDisplay: "50฿",
+        type: "view",
+        type1: "add",
+        isSale: false,
+        img: "tree_img_shop/พลูด่าง.webp"
     },
 
     {
