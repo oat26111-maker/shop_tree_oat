@@ -10826,6 +10826,17 @@ textarea.form-control-lg {
 }
 
 .main-header{
+<<<<<<< HEAD
+  background-image: url("img/ร้าน\ \(1270\ x\ 440\ px\).jpg");
+  /* background-color: black; */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 10rem;
+
+}
+=======
   background-image: url("img/background_สุวรรณ.png") ;
   color: black;
   padding: 5rem;
@@ -10835,3 +10846,4 @@ textarea.form-control-lg {
 
 }
 
+>>>>>>> a30fcc55415d118cd290bc38ad365e6df4f0b078
