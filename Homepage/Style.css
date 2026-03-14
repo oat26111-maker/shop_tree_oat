@@ -10826,9 +10826,12 @@ textarea.form-control-lg {
 }
 
 .main-header{
-  background-color: black;
+  background-image: url("img/ร้าน\ \(1270\ x\ 440\ px\).jpg");
+  /* background-color: black; */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
   color: white;
-  padding: 5rem;
-  padding-top: 50px;
-  text-align: center;
+  padding: 10rem;
+
 }
